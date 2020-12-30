@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "surfer";
+    src: url("./../fonts/surfer.ttf");
+}
+
+* {
+    font-family: "surfer", Arial, Helvetica, sans-serif;
+}
+
+body {
+    min-height: 48em;
+}
+
+form {
+    margin-top: 3.1em;
+}
+
+hr {
+    border-color: white;
+}
+
+footer {
+    bottom: 0;
+}
